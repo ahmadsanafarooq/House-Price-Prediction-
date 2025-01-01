@@ -27,4 +27,4 @@ Data preprocessing
 - Using dummy variables helps eliminate redundancy and ensures the model interprets the data effectively.  
 - Linear regression provides a solid foundation for understanding key factors influencing house prices.  
 
-Download Dataset: https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset].  
+Download Dataset: https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset
